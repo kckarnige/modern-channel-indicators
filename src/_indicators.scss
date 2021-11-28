@@ -48,10 +48,10 @@
         }
     }
 
-    // Indicator Selected
-    .modeSelected-346R90,
-    .channel-2QD9_O.selected-aXhQR6,
-    .selectedCategoryItem-28UllF {
+    // Indicator Selected (Disabled for Compatibility)
+    /*.modeSelected-346R90,
+      .channel-2QD9_O.selected-aXhQR6,
+      .selectedCategoryItem-28UllF {
         background-color: var(--indicator-selected-background, rgba(var(--indicator-selected, var(--fallback-selected)), 0.1));
         &:hover {
             background-color: var(--indicator-selected-hover, rgba(var(--indicator-selected, var(--fallback-selected)), 0.18));
@@ -65,7 +65,7 @@
         div > svg {
             color: var(--indicator-selected-icons, rgba(var(--indicator-selected, var(--fallback-selected))));
         }
-    }
+    } */
 
     // Indicator Unread
     .modeUnread-1qO3K1 {
